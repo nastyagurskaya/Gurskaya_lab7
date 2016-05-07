@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  GameViewController.h
 //  Kettle
 //
 //  Created by Admin on 06.05.16.
@@ -7,11 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <GLKit/GLKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface GameViewController : GLKViewController
 
 @end
-

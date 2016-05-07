@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Drawing2
+//  Kettle
 //
-//  Created by Admin on 30.04.16.
+//  Created by Admin on 06.05.16.
 //  Copyright © 2016 Admin. All rights reserved.
 //
 
